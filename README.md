@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**Nighttell/Nighttell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 你好呀👋
+  
+  
+  
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![可爱滴捏](https://imageproxy.chaoxing.com/0x0,q100,jpeg,sLbB3tfuyORLkUo4-9SaEMlHy0RPDQQZRPc_saASM-wA/https://p.ananas.chaoxing.com/star3/origin/53583497e22d1d2a977fdd4e71825d5c.png)
+<br>
+#### 这里是Nighttell （裁决深渊or夜莺or小妄想）
+<br>
+
+##### 只是一个可爱的小菜鸡~
+<br>
+
+
+> ### 菜鸡会些啥呢？
+> 1. ~~什么也不会~~
+> 2. 会一点点
+>   + py
+>   + c
+>   + 硬件（？）
+>   + and so on
+
+
+
+<br>
+
+----------
+
+###### blog：nighttell.ml
+
+
